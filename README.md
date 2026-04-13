@@ -55,7 +55,7 @@ src/
 ## ⚙️ Installation & Setup
 
 ```bash
-git clone <your-repo-link>
+git clone https://github.com/dhruvmayank9120/Graphketing_assignment.git
 cd UserListApp
 npm install
 npm start
